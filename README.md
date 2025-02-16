@@ -10,8 +10,7 @@ AI Sol Agent is an advanced Web3 chatbot template that enables natural language 
 - **NFT Creation:** Mint NFTs directly through conversation
 - **Balance Checking:** Query SOL balances and token information
 - **Transaction Management:** Send SOL and monitor transactions
-- **Real-time Updates:** Live transaction status and balance updates
-- **Modern UI/UX:** Sleek interface with responsive design and animations
+
 
 ## Technologies Used
 
