@@ -2,6 +2,8 @@
 
 AI Sol Agent is an advanced Web3 chatbot template that enables natural language interactions with the Solana blockchain. Built with Next.js and integrated with LangChain and OpenAI, this template allows developers to create sophisticated blockchain applications with conversational AI capabilities.
 
+## Live Demo
+
 ## Features
 
 - **Natural Language Processing:** Interact with Solana blockchain using simple English commands
@@ -65,27 +67,18 @@ AI Sol Agent is an advanced Web3 chatbot template that enables natural language 
 
 7. Open your browser and navigate to `http://localhost:3000`
 
-## Features in Detail
 
-### 1. Wallet Operations
-- Show wallet address
-- Check SOL balance
-- View transaction history
+## Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-Landing-Page.png" alt="Screenshot 4" width="400"></td>
+    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-PK.png" alt="Screenshot 1" width="400"></td>
+    <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-chat1.png" alt="Screenshot 2" width="400"></td>
+      <td><img src="https://github.com/0xmetaschool/AI-Sol-Agent/blob/main/public/AI-Sol-Agent-web3-template-chat2.png" alt="Screenshot 4" width="400"></td>
+  </tr>
+</table>
 
-### 2. Token Management
-- Create new tokens
-- Check token balances
-- Transfer tokens
 
-### 3. NFT Operations
-- Mint new NFTs
-- View NFT collections
-- Transfer NFTs
-
-### 4. Transaction Handling
-- Send SOL
-- Monitor transaction status
-- View transaction details
 
 ## How to Use
 
