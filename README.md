@@ -57,7 +57,7 @@ AI Sol Agent is an advanced Web3 chatbot template that enables natural language 
     Create a `.env` file in the root directory and add:
     ```env
     OPENAI_API_KEY=your_openai_api_key
-    RPC_URL=your_solana_rpc_url
+    RPC_URL= https://api.devnet.solana.com
     ```
 
 6. Start the development server:
